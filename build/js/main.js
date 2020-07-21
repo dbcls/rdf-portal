@@ -696,21 +696,21 @@
 	          var processedNumber = void 0;
 
 	          switch (true) {
-	            case figure === 2:
-	              processedNumber = Math.round(statisticsItems[item] * 0.001) + '<span> million @@unit@@</span>';
-	              break;
+                    case figure === 3:
+                      processedNumber = Math.round(statisticsItems[item] * 0.000001) + '<span> million @@unit@@</span>';
+                      break;
 
-	            case figure === 3:
-	              processedNumber = Math.round(statisticsItems[item] * 0.000001) + '<span> billion @@unit@@</span>';
-	              break;
+                    case figure === 4:
+                      processedNumber = Math.round(statisticsItems[item] * 0.000000001) + '<span> billion @@unit@@</span>';
+                      break;
 
-	            case figure === 4:
-	              processedNumber = Math.round(statisticsItems[item] * 0.000000001) + '<span> trillion @@unit@@</span>';
-	              break;
+                    case figure === 5:
+                      processedNumber = Math.round(statisticsItems[item] * 0.000000000001) + '<span> trillion @@unit@@</span>';
+                      break;
 
-	            default:
-	              processedNumber = roundedString.toLocaleString();
-	              break;
+                    default:
+                      processedNumber = roundedString.toLocaleString();
+                      break;
 	          }
 
 	          html += "<p>".concat(processedNumber.replace('@@unit@@', {
