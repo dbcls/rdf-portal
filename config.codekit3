@@ -7,7 +7,7 @@
 		"uuidString": "49466282-8310-41C0-9D64-2E49499344BF"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32186",
 "files": {
 	"/build": {
 		"ft": 65536,
@@ -16,9 +16,7 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -27,274 +25,274 @@
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_animation.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/foundation/_base.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_base.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/foundation/_fontello.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_fontello.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/foundation/_mixin.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_mixin.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/foundation/_variables.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_variables.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/main.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 1,
 		"oA": 0,
 		"oAP": "/build/css/main.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/component/_reviewed-icon.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_reviewed-icon.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/component/_star-view.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_star-view.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/component/_svg.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_svg.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/component/_tags.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_tags.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_CodeMirror.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_CodeMirror.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_control-panel.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_control-panel.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_copyright.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_copyright.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_detail-view-frame.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_detail-view-frame.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_detail-view.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_detail-view.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_global-navigation.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_global-navigation.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_logotype.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_logotype.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_main-view.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_main-view.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_offscreen-canvas-container.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_offscreen-canvas-container.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/project/_splash-screen.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_splash-screen.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/css/object/utility/_helper.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/css/_helper.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
+		"sct": 1
 		},
 	"/source/index.pug": {
 		"cB": 0,
@@ -522,7 +520,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 598423298.47839999,
-	"displayValue": "RDF Portal",
+	"displayValue": "RDF Portal（本番）",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0
@@ -1065,6 +1063,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -1120,6 +1122,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -1297,6 +1303,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -1322,6 +1332,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -1465,6 +1479,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -1581,6 +1599,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
+			},
 		"no-restricted-globals": {
 			"active": 0,
 			"optionString": "'event', 'fdescribe'"
@@ -1623,6 +1645,10 @@
 			},
 		"no-sequences": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-setter-return": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-shadow": {
@@ -1720,6 +1746,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
@@ -1828,6 +1858,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
@@ -2525,13 +2559,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 1,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
