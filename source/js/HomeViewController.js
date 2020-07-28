@@ -87,19 +87,19 @@ export default class HomeViewController {
 			}
 			for (const item in statisticsItems) {
 				const
-					sampleString = (statisticsItems[item] + ''),
+					sampleString = statisticsItems[item] + '',
 					figure = Math.ceil(sampleString.length / 3);
 
 				let processedNumber;
 				switch (true) {
-					case figure === 2:
-					processedNumber = Math.round( statisticsItems[item] * 0.001 ) + '<span> million @@unit@@</span>';
-					break;
 					case figure === 3:
-					processedNumber = Math.round( statisticsItems[item] * 0.000001 ) + '<span> billion @@unit@@</span>';
+					processedNumber = Math.round( statisticsItems[item] * 0.000001 ) + '<span> million @@unit@@</span>';
 					break;
 					case figure === 4:
-					processedNumber = Math.round( statisticsItems[item] * 0.000000001 ) + '<span> trillion @@unit@@</span>';
+					processedNumber = Math.round( statisticsItems[item] * 0.000000001 ) + '<span> billion @@unit@@</span>';
+					break;
+					case figure === 5:
+					processedNumber = Math.round( statisticsItems[item] * 0.000000000001 ) + '<span> trillion @@unit@@</span>';
 					break;
 					default:
 					processedNumber = roundedString.toLocaleString();
