@@ -61,6 +61,8 @@ export default class DetailViewController {
 				disposableStarIds = [],
 				cmEditor, cmEditors = [];
 
+				console.log(datasets)
+
 		// スター（ノード）に通知
 		__g.app.stars.forEach(function(star){
 			star.prepareDetailView(starId);
@@ -96,8 +98,11 @@ export default class DetailViewController {
 							})()) +
 							_htmlTR( _MLHtml( STR.version ), datasets.version(starId) ) +
 							_htmlTR( _MLHtml( STR.issued ), datasets.issued(starId) ) +
-							_htmlTR( _MLHtml( STR.license ), _MLAnchor(datasets.license.uri(starId), datasets.license.name(starId) ) + '<br>' + _MLHtml( datasets.license.credit(starId) )) +
-
+							(() => {
+								return datasets.license.uri(starId)[__g.app.language] === ''
+									? ''
+									: _htmlTR( _MLHtml( STR.license ), _MLAnchor(datasets.license.uri(starId), datasets.license.name(starId) ) + '<br>' + _MLHtml( datasets.license.credit(starId) ));
+							})() +
 							_htmlTR( _MLHtml( STR.status ),
 								`<div class="reviewed-icon${ datasets.reviewed(starId) === 'reviewed' ? '' : ' -unreviewed' }"></div> <span>${ _MLHtml(datasets.reviewed(starId) === 'reviewed' ? STR.reviewed : STR.unreviewed) }</span>` +
 								`<div class="star" data-provided-as="${datasets.providedAs(starId)}"><div class="icon"><div class="body"></div></div></div><span>${_MLHtml(datasets.providedAs(starId) === 'original' ? STR.originalDataset : STR.thirdPartyDataset)}</span>` ) +
