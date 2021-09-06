@@ -56,9 +56,12 @@
     return arr2;
   }
 
-  function _createForOfIteratorHelper(o) {
+  function _createForOfIteratorHelper(o, allowArrayLike) {
+    var it;
+
     if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) {
-      if (Array.isArray(o) || (o = _unsupportedIterableToArray(o))) {
+      if (Array.isArray(o) || (it = _unsupportedIterableToArray(o)) || allowArrayLike && o && typeof o.length === "number") {
+        if (it) o = it;
         var i = 0;
 
         var F = function () {};
@@ -84,8 +87,7 @@
       throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
     }
 
-    var it,
-        normalCompletion = true,
+    var normalCompletion = true,
         didErr = false,
         err;
     return {
@@ -632,7 +634,7 @@
     },
     RADIUS: 532
   },
-      SHOW_DURATION = 900;
+      SHOW_DURATION$1 = 900;
   /* Home view manager class
    * ホームビュー管理クラス
    * 
@@ -766,7 +768,7 @@
 
         window.setTimeout(function () {
           __g.app.changed(__g.VIEWS_NAME.indexOf('home'), this.$view.innerHeight());
-        }.bind(this), SHOW_DURATION);
+        }.bind(this), SHOW_DURATION$1);
       }
     }, {
       key: "hide",
@@ -779,8 +781,8 @@
     return HomeViewController;
   }(); // ********** end of HomeViewController class
 
-  var SHOW_DURATION$1 = 100,
-      ORIGIN = {
+  var SHOW_DURATION = 100,
+      ORIGIN$2 = {
     X: 339,
     Y: 27
   };
@@ -804,7 +806,7 @@
 
         window.setTimeout(function () {
           _this.makeList();
-        }, SHOW_DURATION$1);
+        }, SHOW_DURATION);
       }
     }, {
       key: "makeList",
@@ -829,7 +831,7 @@
         }
 
         $w.on('resize.listView', function () {
-          _this2.$stars.css('width', __g.app.$main.width() - ORIGIN.X - 20);
+          _this2.$stars.css('width', __g.app.$main.width() - ORIGIN$2.X - 20);
         }).triggerHandler('resize.listView');
       } // 星の位置取りを行う
 
@@ -837,7 +839,7 @@
       key: "placeStars",
       value: function placeStars(sortedIds) {
         var i,
-            top = ORIGIN.Y,
+            top = ORIGIN$2.Y,
             height;
         this._placedStarCoutner = 0; // 各ノードに通知
 
@@ -897,7 +899,7 @@
     }], [{
       key: "ORIGIN",
       get: function get() {
-        return ORIGIN;
+        return ORIGIN$2;
       }
     }]);
 
@@ -1757,7 +1759,7 @@
     return StarImage;
   }(); // ********** end of Star image class
 
-  var ORIGIN$2 = {
+  var ORIGIN = {
     X: 113,
     Y: 86
   },
@@ -1825,8 +1827,9 @@
             // スタンザは出力しないよう、一時的に0を代入
         disposableStarIds = [],
             cmEditor,
-            cmEditors = []; // スター（ノード）に通知
+            cmEditors = [];
 
+        console.log(datasets); // スター（ノード）に通知
 
         __g.app.stars.forEach(function (star) {
           star.prepareDetailView(starId);
@@ -1862,7 +1865,9 @@
           }
 
           return subHtml + '</ul>';
-        }()) + _htmlTR(_MLHtml(STR.version), datasets.version(starId)) + _htmlTR(_MLHtml(STR.issued), datasets.issued(starId)) + _htmlTR(_MLHtml(STR.license), _MLAnchor(datasets.license.uri(starId), datasets.license.name(starId)) + '<br>' + _MLHtml(datasets.license.credit(starId))) + _htmlTR(_MLHtml(STR.status), "<div class=\"reviewed-icon".concat(datasets.reviewed(starId) === 'reviewed' ? '' : ' -unreviewed', "\"></div> <span>").concat(_MLHtml(datasets.reviewed(starId) === 'reviewed' ? STR.reviewed : STR.unreviewed), "</span>") + "<div class=\"star\" data-provided-as=\"".concat(datasets.providedAs(starId), "\"><div class=\"icon\"><div class=\"body\"></div></div></div><span>").concat(_MLHtml(datasets.providedAs(starId) === 'original' ? STR.originalDataset : STR.thirdPartyDataset), "</span>")) + _htmlTR(_MLHtml(STR.downloadFile), _html('p', {
+        }()) + _htmlTR(_MLHtml(STR.version), datasets.version(starId)) + _htmlTR(_MLHtml(STR.issued), datasets.issued(starId)) + function () {
+          return datasets.license.uri(starId)[__g.app.language] === '' ? '' : _htmlTR(_MLHtml(STR.license), _MLAnchor(datasets.license.uri(starId), datasets.license.name(starId)) + '<br>' + _MLHtml(datasets.license.credit(starId)));
+        }() + _htmlTR(_MLHtml(STR.status), "<div class=\"reviewed-icon".concat(datasets.reviewed(starId) === 'reviewed' ? '' : ' -unreviewed', "\"></div> <span>").concat(_MLHtml(datasets.reviewed(starId) === 'reviewed' ? STR.reviewed : STR.unreviewed), "</span>") + "<div class=\"star\" data-provided-as=\"".concat(datasets.providedAs(starId), "\"><div class=\"icon\"><div class=\"body\"></div></div></div><span>").concat(_MLHtml(datasets.providedAs(starId) === 'original' ? STR.originalDataset : STR.thirdPartyDataset), "</span>")) + _htmlTR(_MLHtml(STR.downloadFile), _html('p', {
           class: 'file'
         }, _html('a', {
           href: datasets.downloadFile.uri(starId)
@@ -2018,7 +2023,7 @@
           subHtml += noOfSPARQLExamples > 0 ? _html('a', {
             href: '#' + ID_SPARQL_EXAMPLES
           }, _MLHtml('h3', STR.sparqlExamples)) : '';
-          subHtml +=  '';
+          subHtml += '';
           return subHtml + '</nav>';
         }();
 
@@ -2283,7 +2288,7 @@
     }], [{
       key: "ORIGIN",
       get: function get() {
-        return ORIGIN$2;
+        return ORIGIN;
       }
     }, {
       key: "OFFSET",
@@ -3908,11 +3913,10 @@
     _createClass(RDFPortal, [{
       key: "_startApp",
       value: function _startApp() {
-        var urlParameter = {}; // ロゴ色の取得
         //$.adaptiveBackground.run();
         // URL パラメータからページ状態の復帰
 
-        urlParameter.view = window.location.pathname ? window.location.pathname.substr(1) : 'home'; // ビューの特定
+        window.location.pathname ? window.location.pathname.substr(1) : 'home'; // ビューの特定
 
 
         page(__g.rootPath + 'dataset/:id', this.routeDetail.bind(this));
@@ -3981,6 +3985,16 @@
         }
       } // accessor
 
+    }, {
+      key: "currentStarId",
+      get: function get() {
+        return this._currentStarId;
+      }
+    }, {
+      key: "currentView",
+      get: function get() {
+        return this._currentView;
+      }
     }, {
       key: "isChanging",
       value: function isChanging() {
@@ -4189,9 +4203,7 @@
             idIndices = {},
             i,
             j,
-            newStyle,
-            screenWidth,
-            screenHeight;
+            newStyle;
         this.$main = $('main#main-view');
         this.$stars = this.$main.children('.stars');
         this.$star = undefined;
@@ -4410,8 +4422,8 @@
           }); // force layout
 
 
-          screenWidth = parseInt(__g.d3.svg.attr('width'));
-          screenHeight = parseInt(__g.d3.svg.attr('height'));
+          parseInt(__g.d3.svg.attr('width'));
+          parseInt(__g.d3.svg.attr('height'));
           __g.d3.force = d3.forceSimulation() //.velocityDecay(0.1) // ノードの速度減衰係数
           .alpha(0.0025) //.alphaDecay(0.9)
           .alphaTarget(0).force('link', // リンクによるバネ力
@@ -4463,16 +4475,6 @@
         } // 準備カウンタを1つ減らす
 
         this.appPrepareDecrement();
-      }
-    }, {
-      key: "currentStarId",
-      get: function get() {
-        return this._currentStarId;
-      }
-    }, {
-      key: "currentView",
-      get: function get() {
-        return this._currentView;
       }
     }]);
 
