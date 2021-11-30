@@ -87,6 +87,21 @@
 | ---- | ---- | ---- | ---- |
 |The Human Protein Atlas||20.1||
 
+### Endpoint: https://integbio.jp/rdf/pubcase/sparql
+|Dataset name|Update date|Version|Graph name|
+| ---- | ---- | ---- | ---- |
+|DisGeNet||v7.0.0|http://rdf.integbio.jp/dataset/disgenet|
+|GO|2021-03-15||http://integbio.jp/rdf/bioportal/go|
+|HGNC|2021-03-11||http://togovar.biosciencedbc.jp/hgnc|
+|HPO|2021-02-17||http://togovar.biosciencedbc.jp/HPO|
+|MedGen|2021-03-11||http://togovar.biosciencedbc.jp/medgen|
+|MeSH|2021-03-05||http://togovar.biosciencedbc.jp/mesh|
+|MONDO|2021-04-15||http://togovar.biosciencedbc.jp/mondo|
+|NANDO|2020-11-11|0.4.3|http://nanbyodata.jp/ontology/nando|
+|PubCaseFinder RDF  [metadata](https://integbio.jp/rdf/dataset/pubcasefinder)|2021-05-18|1.3|https://pubcasefinder.dbcls.jp/rdf|
+|PubMed|2021-04-21||http://togovar.biosciencedbc.jp/pubmed|
+|UBERON|2021-03-12||http://purl.obolibrary.org/obo/uberon.owl|
+
 ### Endpoint: https://integbio.jp/rdf/pubchem/sparql
 |Dataset name|Update date|Version|Graph name|
 | ---- | ---- | ---- | ---- |
