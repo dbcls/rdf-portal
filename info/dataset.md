@@ -122,5 +122,5 @@
 ### Endpoint: https://integbio.jp/rdf/wikidata/sparql
 |Dataset name|Update date|Version|Graph name|
 | ---- | ---- | ---- | ---- |
-|Wikidata|2021-11|||
+|Wikidata|2021-11||http://rdf.integbio.jp/dataset/wikidata|
 
