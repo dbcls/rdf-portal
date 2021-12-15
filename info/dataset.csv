@@ -1,4 +1,4 @@
-ds_name,metadata,endpoint,virtuosodb,update_date,version,gr_name
+ds_name,metadata,endpoint,virtuosodb,update_date,version,gr_name,log,original
 Dataset of NBRC bioresource,https://integbio.jp/rdf/dataset/nbrc, https://integbio.jp/rdf/sparql,,2020-08-31,release_20200831,http://purl.jp/bio/103/nite/culture/
 Dataset of WURCS-RDF,https://integbio.jp/rdf/dataset/wurcs, https://integbio.jp/rdf/sparql,,2015-09-30,0.2,(see metadata)
 DisGeNet,, https://integbio.jp/rdf/sparql,,,v7.0.0,http://rdf.integbio.jp/dataset/disgenet
