@@ -1,13 +1,13 @@
 ds_name,metadata,endpoint,virtuosodb,update_date,version,gr_name,log,original
 Dataset of NBRC bioresource,https://integbio.jp/rdf/dataset/nbrc, https://integbio.jp/rdf/sparql,,2020-08-31,release_20200831,http://purl.jp/bio/103/nite/culture/,,
 Dataset of WURCS-RDF,https://integbio.jp/rdf/dataset/wurcs, https://integbio.jp/rdf/sparql,,2015-09-30,0.2,(see metadata),,
-DisGeNet,, https://integbio.jp/rdf/sparql,,,v7.0.0,http://rdf.integbio.jp/dataset/disgenet,,
+DisGeNet,, https://integbio.jp/rdf/sparql,,2020-06-03,v7.0.0,http://rdf.integbio.jp/dataset/disgenet,,
 FAMSBASE GPCR,https://integbio.jp/rdf/dataset/famsbase, https://integbio.jp/rdf/sparql,,2016-03-24,,http://fams.bio.chuo-u.ac.jp/GPCR/rdf/,,
 GGDonto,https://integbio.jp/rdf/dataset/ggdonto, https://integbio.jp/rdf/sparql,,2017-01-25,v.1.0,http://jcggdb.jp/rdf/diseases/ggdonto,,
 GlyTouCan,https://integbio.jp/rdf/dataset/glytoucan, https://integbio.jp/rdf/sparql,,2015-09-04,Ver1.0,http://rdf.glycoinfo.org/glytoucan,,
 GlycoEpitope,https://integbio.jp/rdf/dataset/glycoepitope, https://integbio.jp/rdf/sparql,,2015-11-18,version 3,http://rdf.glycoinfo.org/glycoepitope,,
 HGNC symbol report,, https://integbio.jp/rdf/sparql,,,,http://rdf.integbio.jp/dataset/hgnc,,
-Integbio Database Catalog/RDF,https://integbio.jp/rdf/dataset/dbcatalog, https://integbio.jp/rdf/sparql,,2021-06-30,,(see metadata),,
+Integbio Database Catalog/RDF,https://integbio.jp/rdf/dataset/dbcatalog, https://integbio.jp/rdf/sparql,,2021-08-24,,(see metadata),,
 Linked ICGC Dataset,https://integbio.jp/rdf/dataset/icgc, https://integbio.jp/rdf/sparql,,2016-01-04,release_20,http://icgc.link/release_20,,
 MBGD RDF,https://integbio.jp/rdf/dataset/mbgd, https://integbio.jp/rdf/sparql,,2015-06-20,2015-01,(see metadata),,
 Metadata of JCM resources,https://integbio.jp/rdf/dataset/rikenbrc_jcm_microbe, https://integbio.jp/rdf/sparql,,2019-06-04,,https://metadb.riken.jp/metadb/db/rikenbrc_jcm_microbe,,
@@ -48,7 +48,7 @@ Pubtator,,https://integbio.jp/rdf/ncbi/sparql,,,,http://rdf.integbio.jp/dataset/
 BMRB/RDF,https://integbio.jp/rdf/dataset/bmrb,https://integbio.jp/rdf/pdb/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2021-11-04,,(see metadata),,
 wwPDB,https://integbio.jp/rdf/dataset/pdbj,https://integbio.jp/rdf/pdb/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2021-12-01,,http://rdf.integbio.jp/dataset/pdbj,,
 The Human Protein Atlas,,https://integbio.jp/rdf/protein-atlas/sparql,,,20.1,,,https://www.proteinatlas.org/about/download
-DisGeNet,,https://integbio.jp/rdf/pubcase/sparql,,,v7.0.0,,,http://rdf.disgenet.org/download/
+DisGeNet,,https://integbio.jp/rdf/pubcase/sparql,,2020-06-03,v7.0.0,,,http://rdf.disgenet.org/download/
 GO,,https://integbio.jp/rdf/pubcase/sparql,,2021-03-15,,http://integbio.jp/rdf/bioportal/go,,
 HGNC symbol report,,https://integbio.jp/rdf/pubcase/sparql,,2021-03-11,,http://togovar.biosciencedbc.jp/hgnc,,
 HPO,,https://integbio.jp/rdf/pubcase/sparql,,2021-02-17,,http://togovar.biosciencedbc.jp/HPO,,
