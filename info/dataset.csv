@@ -11,7 +11,7 @@ Integbio Database Catalog/RDF,https://integbio.jp/rdf/dataset/dbcatalog, https:/
 Linked ICGC Dataset,https://integbio.jp/rdf/dataset/icgc, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2016-01-04,release_20,http://icgc.link/release_20,,
 MBGD RDF,https://integbio.jp/rdf/dataset/mbgd, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2015-06-20,2015-01,(see metadata),,
 Metadata of JCM resources,https://integbio.jp/rdf/dataset/rikenbrc_jcm_microbe, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2019-06-04,,https://metadb.riken.jp/metadb/db/rikenbrc_jcm_microbe,,
-NANDO,https://integbio.jp/rdf/dataset/nando, https://integbio.jp/rdf/sparql,,2020-11-11,0.4.3,http://nanbyodata.jp/ontology/nando,,
+NANDO,https://integbio.jp/rdf/dataset/nando, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2020-11-11,0.4.3,http://nanbyodata.jp/ontology/nando,,
 NBDC NikkajiRDF,https://integbio.jp/rdf/dataset/nikkaji, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2017-01-12,,(see metadata),,
 Nucleic Acid Drug Database,https://integbio.jp/rdf/dataset/mnadd, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2019-05-14,,http://purl.jp/bio/18/nadd/,,
 Open TG-GATEs,https://integbio.jp/rdf/dataset/open-tggates, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2017-03-17,,http://rdf.integbio.jp/dataset/open-tggates,,
