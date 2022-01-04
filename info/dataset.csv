@@ -22,7 +22,7 @@ Quanto,https://integbio.jp/rdf/dataset/quanto, https://integbio.jp/rdf/sparql,ht
 RefEx RDF,https://integbio.jp/rdf/dataset/refex, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2017-04-07,,(see metadata),,
 SSBD: Meta-information of quantitative data and microscopy images,https://integbio.jp/rdf/dataset/ssbd, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2018-03-24,SSBD31_20171218 release 20180324,http://metadb.riken.jp/db/SSBD,,
 jPOST database RDF,https://integbio.jp/rdf/dataset/jpost, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2020-06-09,202006,http://jpost.org/graph/database,,
-BioPortal,,https://integbio.jp/rdf/bioportal/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/bioportal/LATEST/,,,,https://integbio.jp/rdf/mirror/log/bioportal,https://bioportal.bioontology.org/
+BioPortal,,https://integbio.jp/rdf/bioportal/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/bioportal/LATEST/,2021-12-24,,,https://integbio.jp/rdf/mirror/log/bioportal,https://bioportal.bioontology.org/
 KG-COVID-19,,https://integbio.jp/rdf/covid/sparql,,,,http://kg-hub.berkeleybop.io/kg-covid-19,,
 PheKnowLator,,https://integbio.jp/rdf/covid/sparql,,,,https://github.com/callahantiff/PheKnowLator/Full-OWL-KG,,
 PheKnowLator (Full-OWL)	,,https://integbio.jp/rdf/covid/sparql,,,,https://github.com/callahantiff/PheKnowLator/OWL-NETS-KG,,
