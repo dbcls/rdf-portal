@@ -6,7 +6,7 @@ FAMSBASE GPCR,https://integbio.jp/rdf/dataset/famsbase, https://integbio.jp/rdf/
 GGDonto,https://integbio.jp/rdf/dataset/ggdonto, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2017-01-25,v.1.0,http://jcggdb.jp/rdf/diseases/ggdonto,,
 GlyTouCan,https://integbio.jp/rdf/dataset/glytoucan, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2015-09-04,Ver1.0,http://rdf.glycoinfo.org/glytoucan,,
 GlycoEpitope,https://integbio.jp/rdf/dataset/glycoepitope, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2015-11-18,version 3,http://rdf.glycoinfo.org/glycoepitope,,
-HGNC symbol report,,,,,,http://rdf.integbio.jp/dataset/hgnc,,
+HGNC symbol report,https://integbio.jp/rdf/dataset/hgnc, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2021-12-23,,http://rdf.integbio.jp/dataset/hgnc,,
 Integbio Database Catalog/RDF,https://integbio.jp/rdf/dataset/dbcatalog, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2021-08-24,,(see metadata),,
 Linked ICGC Dataset,https://integbio.jp/rdf/dataset/icgc, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2016-01-04,release_20,http://icgc.link/release_20,,
 MBGD RDF,https://integbio.jp/rdf/dataset/mbgd, https://integbio.jp/rdf/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST/,2015-06-20,2015-01,(see metadata),,
