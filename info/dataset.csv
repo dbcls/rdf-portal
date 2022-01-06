@@ -59,7 +59,7 @@ NANDO,,https://integbio.jp/rdf/pubcase/sparql,,2020-11-11,0.4.3,http://nanbyodat
 PubCaseFinder RDF,https://integbio.jp/rdf/dataset/pubcasefinder,https://integbio.jp/rdf/pubcase/sparql,,2021-05-18,1.3,https://pubcasefinder.dbcls.jp/rdf,,
 PubMed,,https://integbio.jp/rdf/pubcase/sparql,,2021-04-21,,http://togovar.biosciencedbc.jp/pubmed,,
 UBERON,,https://integbio.jp/rdf/pubcase/sparql,,2021-03-12,,http://purl.obolibrary.org/obo/uberon.owl,,
-PubChem,https://integbio.jp/rdf/dataset/pubchem,https://integbio.jp/rdf/pubchem/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/pubchem/LATEST,2021-11-23,,(see metadata),https://integbio.jp/rdf/mirror/log/pubchem,ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/
+PubChem,https://integbio.jp/rdf/dataset/pubchem,https://integbio.jp/rdf/pubchem/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/pubchem/LATEST,2022-01-01,,(see metadata),https://integbio.jp/rdf/mirror/log/pubchem,ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/
 neXtProt,,https://integbio.jp/rdf/sib/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021-02-18,,http://rdf.integbio.jp/dataset/nextprot,https://integbio.jp/rdf/mirror/log/misc,ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/
 Rhea,,https://integbio.jp/rdf/sib/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021-11-17,,http://rdf.integbio.jp/dataset/rhea,https://integbio.jp/rdf/mirror/log/misc,ftp://ftp.ebi.ac.uk/pub/databases/rhea/rdf/rhea.rdf.gz
 UniProt,http://integbio.jp/rdf/dataset/uniprot,https://integbio.jp/rdf/sib/sparql,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021-11-18,release 2021_04,http://sparql.uniprot.org/uniprot,https://integbio.jp/rdf/mirror/log/uniprot,ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/
