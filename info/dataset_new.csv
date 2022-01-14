@@ -1,0 +1,68 @@
+ds_name,gr_name,metadata,metadata_link,endpoint,virtuosodb,virtuosodb_link,loaded,log,original,released,version
+Dataset of NBRC bioresource,http://purl.jp/bio/103/nite/culture/,metadata,https://integbio.jp/rdf/dataset/nbrc, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2020/8/31,release_20200831
+Dataset of WURCS-RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/wurcs, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2015/9/30,0.2
+DisGeNet,http://rdf.integbio.jp/dataset/disgenet,metadata,https://integbio.jp/rdf/dataset/disgenet, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2020/6/3,v7.0.0
+FAMSBASE GPCR,http://fams.bio.chuo-u.ac.jp/GPCR/rdf/,metadata,https://integbio.jp/rdf/dataset/famsbase, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2016/3/24,
+GGDonto,http://jcggdb.jp/rdf/diseases/ggdonto,metadata,https://integbio.jp/rdf/dataset/ggdonto, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2017/1/25,v.1.0
+GlyTouCan,http://rdf.glycoinfo.org/glytoucan,metadata,https://integbio.jp/rdf/dataset/glytoucan, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2015/9/4,Ver1.0
+GlycoEpitope,http://rdf.glycoinfo.org/glycoepitope,metadata,https://integbio.jp/rdf/dataset/glycoepitope, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2015/11/18,version 3
+HGNC symbol report,http://rdf.integbio.jp/dataset/hgnc,metadata,https://integbio.jp/rdf/dataset/hgnc, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2021/12/23,
+Integbio Database Catalog/RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/dbcatalog, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2021/8/24,
+Linked ICGC Dataset,http://icgc.link/release_20,metadata,https://integbio.jp/rdf/dataset/icgc, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2016/1/4,release_20
+MBGD RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/mbgd, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2015/6/20,Jan-15
+Metadata of JCM resources,https://metadb.riken.jp/metadb/db/rikenbrc_jcm_microbe,metadata,https://integbio.jp/rdf/dataset/rikenbrc_jcm_microbe, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2019/6/4,
+NANDO,http://nanbyodata.jp/ontology/nando,metadata,https://integbio.jp/rdf/dataset/nando, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2020/11/11,0.4.3
+NBDC NikkajiRDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/nikkaji, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2017/1/12,
+Nucleic Acid Drug Database,http://purl.jp/bio/18/nadd/,metadata,https://integbio.jp/rdf/dataset/mnadd, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2019/5/14,
+Open TG-GATEs,http://rdf.integbio.jp/dataset/open-tggates,metadata,https://integbio.jp/rdf/dataset/open-tggates, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2017/3/17,
+PAConto,http://jcggdb.jp/rdf/diseases/paconto,metadata,https://integbio.jp/rdf/dataset/paconto, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2016/6/1,v.1.0
+PGDBj Ortholog database RDF,http://pgdbj.jp/od/,metadata,https://integbio.jp/rdf/dataset/pgdbj, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2016/7/26,1.57.0
+PubCaseFinder RDF,https://pubcasefinder.dbcls.jp/rdf,metadata,https://integbio.jp/rdf/dataset/pubcasefinder, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2021/5/18,1.3
+Quanto,http://quanto.dbcls.jp,metadata,https://integbio.jp/rdf/dataset/quanto, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2016/7/12,0.1.2
+RefEx RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/refex, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2017/4/7,
+SSBD: Meta-information of quantitative data and microscopy images,http://metadb.riken.jp/db/SSBD,metadata,https://integbio.jp/rdf/dataset/ssbd, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2018/3/24,SSBD31_20171218 release 20180324
+jPOST database RDF,http://jpost.org/graph/database,metadata,https://integbio.jp/rdf/dataset/jpost, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022/1/6,,,2020/6/9,202006
+BioPortal,(see load log),,,https://integbio.jp/rdf/bioportal/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/bioportal/LATEST,2022/1/4,https://integbio.jp/rdf/mirror/log/bioportal,https://bioportal.bioontology.org/,2021/12/24,
+KG-COVID-19,http://kg-hub.berkeleybop.io/kg-covid-19,,,https://integbio.jp/rdf/covid/sparql,,,2021/1/18,,,,
+PheKnowLator,https://github.com/callahantiff/PheKnowLator/Full-OWL-KG,,,https://integbio.jp/rdf/covid/sparql,,,2021/1/18,,,,
+"PheKnowLator (Full-OWL)	",https://github.com/callahantiff/PheKnowLator/OWL-NETS-KG,,,https://integbio.jp/rdf/covid/sparql,,,2021/1/18,,,,
+UniProt/COVID-19,https://covid-19-sparql.expasy.org/uniprot,,,https://integbio.jp/rdf/covid/sparql,,,2021/1/18,,,,
+DDBJ ,http://rdf.integbio.jp/dataset/ddbj,metadata,https://integbio.jp/rdf/dataset/ddbj,https://integbio.jp/rdf/ddbj/sparql,,,2016/7/30,,,2016/7/30,105
+BioModels,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/RDF/biomodels/,,31
+BioSamples,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/biosamples/biosd2rdf/,2019,
+ChEBI,http://rdf.ebi.ac.uk/dataset/chebi,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.owl.gz,2021/4/1,
+ChEMBL,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBL-RDF/latest/,,28
+Ensembl,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ensembl.org/pub/current_rdf/,,102
+Ensembl(GRCh37),http://rdf.integbio.jp/dataset/ensembl_grch37,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,https://togovar.biosciencedbc.jp/public/virtuoso/ensembl_grch37/,2020/10/23,
+Expression Atlas,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/gxa/rdf/,2017/5/18,
+GWAS Catalog,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,,,
+"Ontology Lookup Service (OLS)	",,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/spot/ols/ols_rdf/,2021/4/1,
+Reactome,,,,https://integbio.jp/rdf/ebi/sparql,,,2021/4/19,https://integbio.jp/rdf/mirror/log/ebi,ftp://ftp.ebi.ac.uk/pub/databases/RDF/reactome/,,71
+DBKERO RDF,http://rdf.integbio.jp/dataset/kero/Cancer_Cell_Line,metadata,https://integbio.jp/rdf/dataset/kero,https://integbio.jp/rdf/kero/sparql,,,2020/6/10,,,2020/6/10,release_010
+MeSH,,,,https://integbio.jp/rdf/mesh/sparql,,,2021/4/15,https://integbio.jp/rdf/mirror/log/mesh,ftp://ftp.nlm.nih.gov/online/mesh/rdf/,Apr-21,
+ClinVar,http://rdf.integbio.jp/dataset/clinvar,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,
+MedGen,http://rdf.integbio.jp/dataset/medgen,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,
+Nlm-catalog,http://rdf.integbio.jp/dataset/nlm_catalog,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,
+PubMed,http://rdf.integbio.jp/dataset/pubmed,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,
+Pubtator,http://rdf.integbio.jp/dataset/pubtator_central,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,
+BMRB/RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/bmrb,https://integbio.jp/rdf/pdb/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2022/1/13,,,2021/11/4,
+wwPDB,http://rdf.integbio.jp/dataset/pdbj,metadata,https://integbio.jp/rdf/dataset/pdbj,https://integbio.jp/rdf/pdb/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2022/1/13,,,2022/1/12,
+The Human Protein Atlas,,,,https://integbio.jp/rdf/protein-atlas/sparql,,,,,https://www.proteinatlas.org/about/download,,20.1
+DisGeNet,http://rdf.integbio.jp/dataset/disgenet,metadata,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,http://rdf.disgenet.org/download/,2020/6/3,v7.0.0
+GO,http://integbio.jp/rdf/bioportal/go,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/3/15,
+HGNC symbol report,http://togovar.biosciencedbc.jp/hgnc,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/3/11,
+HPO,http://togovar.biosciencedbc.jp/HPO,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/2/17,
+MedGen,http://togovar.biosciencedbc.jp/medgen,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/3/11,
+MeSH,http://togovar.biosciencedbc.jp/mesh,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/3/5,
+MONDO,http://togovar.biosciencedbc.jp/mondo,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/4/15,
+NANDO,http://nanbyodata.jp/ontology/nando,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2020/11/11,0.4.3
+PubCaseFinder RDF,https://pubcasefinder.dbcls.jp/rdf,metadata,https://integbio.jp/rdf/dataset/pubcasefinder,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/5/18,1.3
+PubMed,http://togovar.biosciencedbc.jp/pubmed,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/4/21,
+UBERON,http://purl.obolibrary.org/obo/uberon.owl,,,https://integbio.jp/rdf/pubcase/sparql,,,2021/5/19,,,2021/3/12,
+PubChem,(see metadata),metadata,https://integbio.jp/rdf/dataset/pubchem,https://integbio.jp/rdf/pubchem/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pubchem/LATEST,,https://integbio.jp/rdf/mirror/log/pubchem,ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/,2022/1/1,
+neXtProt,http://rdf.integbio.jp/dataset/nextprot,,,https://integbio.jp/rdf/sib/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021/12/20,https://integbio.jp/rdf/mirror/log/misc,ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/,2021/2/18,
+Rhea,http://rdf.integbio.jp/dataset/rhea,,,https://integbio.jp/rdf/sib/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021/12/20,https://integbio.jp/rdf/mirror/log/misc,ftp://ftp.ebi.ac.uk/pub/databases/rhea/rdf/rhea.rdf.gz,2021/11/17,
+UniProt,http://sparql.uniprot.org/uniprot,metadata,http://integbio.jp/rdf/dataset/uniprot,https://integbio.jp/rdf/sib/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/sib/LATEST,2021/12/20,https://integbio.jp/rdf/mirror/log/uniprot,ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/,2021/11/18,release 2021_04
+Uniparc1,http://sparql.uniprot.org/uniparc,metadata,http://integbio.jp/rdf/dataset/uniprot,https://integbio.jp/rdf/uniparc1/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/sib/uniparc/LATEST/,2021/12/20,,ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/,2021/11/18,release 2021_04
+Uniparc2,http://sparql.uniprot.org/uniparc,metadata,http://integbio.jp/rdf/dataset/uniprot,https://integbio.jp/rdf/uniparc2/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/sib/uniparc/LATEST/,2021/12/20,,ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/,2021/11/18,release 2021_04
+Wikidata,http://rdf.integbio.jp/dataset/wikidata,,,https://integbio.jp/rdf/wikidata/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/wikidata/LATEST,2021/11/30,https://integbio.jp/rdf/mirror/log/wikidata,https://dumps.wikimedia.org/wikidatawiki/entities/,Nov-21,
