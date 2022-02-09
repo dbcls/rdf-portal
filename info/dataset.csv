@@ -45,7 +45,7 @@ MedGen,http://rdf.integbio.jp/dataset/medgen,,,https://integbio.jp/rdf/ncbi/spar
 Nlm-catalog,http://rdf.integbio.jp/dataset/nlm_catalog,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,,,
 PubMed,http://rdf.integbio.jp/dataset/pubmed,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,,,
 Pubtator,http://rdf.integbio.jp/dataset/pubtator_central,,,https://integbio.jp/rdf/ncbi/sparql,,,,,,,,,
-BMRB/RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/bmrb,https://integbio.jp/rdf/pdb/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2022-01-20,,,,,2021-11-04,
+BMRB/RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/bmrb,https://integbio.jp/rdf/pdb/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2022-02-02,,,,,2021-11-04,
 wwPDB,http://rdf.integbio.jp/dataset/pdbj,metadata,https://integbio.jp/rdf/dataset/pdbj,https://integbio.jp/rdf/pdb/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/pdb/LATEST,2022-02-02,,,,,2022-02-02,
 The Human Protein Atlas,,,,https://integbio.jp/rdf/protein-atlas/sparql,,,,,,original,https://www.proteinatlas.org/about/download,,20.1
 DisGeNet,http://rdf.integbio.jp/dataset/disgenet,metadata,,https://integbio.jp/rdf/pubcase/sparql,,,2021-05-19,,,original,http://rdf.disgenet.org/download/,2020-06-03,v7.0.0
