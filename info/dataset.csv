@@ -29,16 +29,16 @@ PheKnowLator,https://github.com/callahantiff/PheKnowLator/Full-OWL-KG,,,https://
 PheKnowLator (Full-OWL)	,https://github.com/callahantiff/PheKnowLator/OWL-NETS-KG,,,https://integbio.jp/rdf/covid/sparql,,,2021-01-18,,,,,,
 UniProt/COVID-19,https://covid-19-sparql.expasy.org/uniprot,,,https://integbio.jp/rdf/covid/sparql,,,2021-01-18,,,,,,
 DDBJ ,http://rdf.integbio.jp/dataset/ddbj,metadata,https://integbio.jp/rdf/dataset/ddbj,https://integbio.jp/rdf/ddbj/sparql,,,2016-07-30,,,,,2016-07-30,105
-BioModels,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/RDF/biomodels/,,31
-BioSamples,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/biosamples/biosd2rdf/,2019,
-ChEBI,http://rdf.ebi.ac.uk/dataset/chebi,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.owl.gz,2021-04-01,
-ChEMBL,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBL-RDF/latest/,,28
-Ensembl,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ensembl.org/pub/current_rdf/,,102
-Ensembl(GRCh37),http://rdf.integbio.jp/dataset/ensembl_grch37,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,https://togovar.biosciencedbc.jp/public/virtuoso/ensembl_grch37/,2020-10-23,
-Expression Atlas,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/gxa/rdf/,2017-05-18,
+BioModels,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/RDF/biomodels/,,31
+BioSamples,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/biosamples/biosd2rdf/,2019,
+ChEBI,http://rdf.ebi.ac.uk/dataset/chebi,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.owl.gz,2022-03-10,
+ChEMBL,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBL-RDF/latest/,,30
+Ensembl,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ensembl.org/pub/current_rdf/,,102
+Ensembl(GRCh37),http://rdf.integbio.jp/dataset/ensembl_grch37,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,https://togovar.biosciencedbc.jp/public/virtuoso/ensembl_grch37/,2022-02-07,
+Expression Atlas,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/gxa/rdf/,2017-05-18,
 GWAS Catalog,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,,,,
-Ontology Lookup Service (OLS)	,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/spot/ols/ols_rdf/,2021-04-01,
-Reactome,,,,https://integbio.jp/rdf/ebi/sparql,,,2021-04-19,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/RDF/reactome/,,71
+Ontology Lookup Service (OLS)	,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/spot/ols/ols_rdf/,2022-01-27,
+Reactome,,,,https://integbio.jp/rdf/ebi/sparql,,,2022-03-29,log,https://integbio.jp/rdf/mirror/log/ebi,original,ftp://ftp.ebi.ac.uk/pub/databases/RDF/reactome/,,71
 DBKERO RDF,http://rdf.integbio.jp/dataset/kero/Cancer_Cell_Line,metadata,https://integbio.jp/rdf/dataset/kero,https://integbio.jp/rdf/kero/sparql,,,2020-06-10,,,,,2020-06-10,release_010
 MeSH,,,,https://integbio.jp/rdf/mesh/sparql,,,2021-04-15,log,https://integbio.jp/rdf/mirror/log/mesh,original,ftp://ftp.nlm.nih.gov/online/mesh/rdf/,2021-04,
 ClinVar,http://rdf.integbio.jp/dataset/clinvar,metadata,https://integbio.jp/rdf/dataset/clinvar,https://integbio.jp/rdf/ncbi/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/ncbi/LATEST,2022-02-25,,,,,2022-01-18,
