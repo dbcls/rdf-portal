@@ -1,5 +1,5 @@
 ds_name,gr_name,metadata,metadata_link,endpoint,virtuosodb,virtuosodb_link,loaded,log,log_link,original,original_link,released,version
-Dataset of NBRC bioresource,http://purl.jp/bio/103/nite/culture/,metadata,https://integbio.jp/rdf/dataset/nbrc, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022-03-08,,,,,2020-08-31,release_20200831
+Dataset of NBRC bioresource,http://purl.jp/bio/103/nite/culture/,metadata,https://integbio.jp/rdf/dataset/nbrc, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022-04-22,,,,,2022-03-28,release_20220328
 Dataset of WURCS-RDF,(see metadata),metadata,https://integbio.jp/rdf/dataset/wurcs, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022-03-08,,,,,2015-09-30,0.2
 DisGeNet,http://rdf.integbio.jp/dataset/disgenet,metadata,https://integbio.jp/rdf/dataset/disgenet, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022-03-08,,,,,2020-06-03,v7.0.0
 FAMSBASE GPCR,http://fams.bio.chuo-u.ac.jp/GPCR/rdf/,metadata,https://integbio.jp/rdf/dataset/famsbase, https://integbio.jp/rdf/sparql,download page,https://dbarchive.biosciencedbc.jp/data/rdf/primary/LATEST,2022-03-08,,,,,2016-03-24,
